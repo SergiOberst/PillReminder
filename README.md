@@ -1,5 +1,5 @@
 # PillReminder
-This project tries to solve a problem that people who are clueless have when taking medication. In my case, I have hypothyroidism and I have to take the medication every day, but many times I forget or don't remember if I have taken it or not.
+This project tries to solve a problem that people who are clueless have when taking medication. In my case, I have hypothyroidism and I have to take my medication every day, but many times I forget it. Or maybe don't remember if I have taken it or not
 
 To achieve this, the following hardware is used:
 - Arduino nano
