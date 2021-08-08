@@ -8,6 +8,6 @@ To achieve this, the following hardware is used:
 - Dupont cables
 - 3D Printer to make the base 
 
-The functionality is quite simple; the pill blister covers the LDR resistance and that sensor gets a low value because it's covered. Until the blister is not lifted, the red light is ON. When is lifted, waits the time needed to the next dose and turn on again the red light.
+The functionality is quite simple; the pill blister covers the LDR resistance and that sensor gets a low value because it's covered. Until the blister is not lifted, the red light is ON. When is lifted, the red light turns off and waits the time needed to the next dose and turn on again the red light.
 
 *This project is actually under development, but it has a working version for detect possible bugs. That idea occurred to me last night and I started from 0, so it can still be improved a lot and add functionalities!*
