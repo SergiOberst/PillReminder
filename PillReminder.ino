@@ -3,7 +3,7 @@ const int B = 15;        //Resistencia a la luz (10 Lux) en KΩ
 const int Rc = 10;       //Resistencia calibracion en KΩ
 const int LDRPin = A0;   //Pin de resistencia LDR 
 const int RedLED = 9;
-const long TimeToWait = 72000000; //20h
+const long TimeToWait = 79200000; //22h
 const int SensibilityLDR = 20;
 
 int V;
