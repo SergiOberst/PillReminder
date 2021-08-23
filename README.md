@@ -10,4 +10,7 @@ To achieve this, the following hardware is used:
 
 The functionality is quite simple; the pill blister covers the LDR resistance and that sensor gets a low value because it's covered. Until the blister is not lifted, the red light is ON. When is lifted, the red light turns off and waits the time needed to the next dose and turn on again the red light.
 
+----UPDATE 23/08/2021----
+Added new file PillReminderRTC.ino to use an RTC module and get the current time for more accurate behaviour. Also added folder "fotos" to illustrate.
+
 *This project is actually under development, but it has a working version for detect possible bugs. That idea occurred to me last night and I started from 0, so it can still be improved a lot and add functionalities!*
