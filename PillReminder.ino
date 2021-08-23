@@ -15,7 +15,7 @@ long timeNow = 0;
 void setup()
 {
   Serial.begin(115200);
-  pinMode(RedLED, OUTPUT);//Definimos como salida
+  pinMode(RedLED, OUTPUT);//Defi+nimos como salida
 }
 
 void loop()
